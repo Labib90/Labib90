@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, Latex**
 
-- 📫 How to reach me **labib427.56@gmail.com**
+- 📫 How to reach me **labib724@gmail.com** 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
